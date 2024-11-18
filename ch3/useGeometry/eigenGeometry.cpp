@@ -39,7 +39,6 @@ int main(int argc, char** argv )
     cout << "quaternion=\n"<<q.coeffs()<<endl;
     
 
-
 	return 0;
 }
 

@@ -35,3 +35,6 @@ Project Target=useEigen,eigenMatrix
 Use External Terminal=false
 Working Directory=
 isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit
